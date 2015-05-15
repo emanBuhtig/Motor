@@ -1,0 +1,9 @@
+[Files]
+..\..\MultiReader2\SW\Motion_Control\Motor_Control_PSMD1107_current\TWI_slave.c
+..\..\MultiReader2\SW\Motion_Control\Motor_Control_PSMD1107_current\PSMD_1107_Motor_Control.c
+..\..\MultiReader2\SW\Motion_Control\Motor_Control_PSMD1107_current\PUDB1005_V1206_Motor_Control.c
+[Headers]
+PUDB1005_E1206
+..\..\MultiReader2\SW\Motion_Control\Motor_Control_PSMD1107_current\global.h
+..\..\MultiReader2\SW\Motion_Control\Motor_Control_PSMD1107_current\TWI_slave.h
+[Documents]
